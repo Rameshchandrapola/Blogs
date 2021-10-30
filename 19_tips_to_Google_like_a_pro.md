@@ -1,4 +1,8 @@
+![blog header](https://user-images.githubusercontent.com/76244600/139553972-b7a62d64-c9df-4bf3-9698-6287b3adc6ae.png)
+
+
 ## Hello everyone! 🧡
+
 Before we start Let’s connect on [Twitter](https://twitter.com/POLARAMESHCHAN2) and also follow me here for more useful blogs.
 In this article, we will learn how to search on **Google like a pro**.
 
@@ -192,6 +196,7 @@ That's all for today! 😁 You have reached the end of the article 😍
 If you found this article helpful, please like and share it 🧡. 
 
 ![wonderful.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1635343809376/ASFrwukN0.gif)
+
 Don’t forget to share this article with your friends or colleagues. I'm Ramesh Chandra Pola who loves to build projects and share valuable tips in my Blogs. Feel free to connect with me on [Twitter](https://twitter.com/POLARAMESHCHAN2).  
 
 
